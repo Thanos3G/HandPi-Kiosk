@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# MediaPipe models 
+*.task
+
+# Video files 
+*.mp4
+*.mkv
+*.avi
+
+# OS junk
+.DS_Store
+Thumbs.db
