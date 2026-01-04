@@ -63,7 +63,7 @@ Rules:
 ## HandPi Kiosk — Raspberry Pi Installation
 
 Tested on **Raspberry Pi OS Lite (64-bit Debian Bookworm)**  
-Camera: **USB webcam (V4L2 / OpenCV)**
+Camera: **USB webcam (V4L2 / OpenCV)**/**Raspberry Pi Camera Module**
 
 
 Use **Raspberry Pi Imager** to configure:
