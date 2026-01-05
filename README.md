@@ -154,7 +154,7 @@ Keyboard controls (optional)
 - Q: Quit (desktop only)
 - <-/->: Fast Forward
 
-# Hardware & performance:
+# Hardware & performance
 
 Tested cameras:
 
@@ -181,11 +181,11 @@ The virtual environment created by install_pi.sh must allow access to system Pyt
 - system-installed OpenCV and NumPy
 
 
-Gesture thresholds are tuned separately for Raspberry Pi, desktop systems and camera systems.
+Gesture thresholds are tuned separately for Raspberry Pi, and desktop systems.
 All MediaPipe gesture parameters including stability frames, hold durations, and distance ratios are defined in:
 
 - main_pi.py for Raspberry Pi
-- main.py for desktop systems
+- main_desktop.py for desktop systems
 
 Users can adjust these values to better match their specific hardware setup.
 
