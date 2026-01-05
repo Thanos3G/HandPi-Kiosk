@@ -5,6 +5,12 @@ Gesture-controlled video kiosk for Raspberry Pi Lite ultilizing Mediapipe and MP
 Based on a professionally developed kiosk system, this repository represents
 my experimental, MediaPipe-based evolution of the original project.
 
+▶️ **Click to watch the demo**
+
+[![Watch the demo](https://img.youtube.com/vi/FJC5xfKv_s0/0.jpg)](https://www.youtube.com/watch?v=FJC5xfKv_s0)
+
+
+
 
 ## What this project is
 
